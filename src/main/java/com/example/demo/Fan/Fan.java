@@ -1,6 +1,6 @@
 package com.example.demo.Fan;
 
-public class Fan {
+public class  Fan {
     private boolean isOn = false;
     private FanSpeed speed;
     private String brandName;
